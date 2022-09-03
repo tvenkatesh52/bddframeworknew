@@ -23,6 +23,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class TestBase {
 	//just modify for github
+//just raise push request
 	public static WebDriver driver=null;
 	public static WebDriverWait wait=null;
 	private File f=null;
